@@ -14,6 +14,7 @@ install support:
     postgresql-client-9.1 postgresql-server-dev-9.1 postgresql-doc-9.1 \
     postgresql-contrib-9.1 postgresql-plperl-9.1 postgresql-plpython-9.1 \
     postgresql-plpython3-9.1 postgresql-pltcl-9.1
+    
     sudo apt-get install -y postgresql-plpython-9.1 postgresql-plpython3-9.1
   
 on the formhub database in postgresql:
