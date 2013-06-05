@@ -28,4 +28,6 @@ from postgres execute:
     2) add_trigger_to_table.sql
 
 assumptions:
+    
     schema called immap is available
+
