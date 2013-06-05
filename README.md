@@ -22,6 +22,7 @@ on the formhub database in postgresql:
     CREATE EXTENSION plpython3u;
 
 from postgres execute:
+
     1) create_trigger.sql
     2) add_trigger_to_table.sql
 
